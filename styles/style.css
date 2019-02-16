@@ -1,9 +1,14 @@
-//
-//  style.m
-//  Git笔记
-//
-//  Created by 戴运鹏 on 2019/2/16.
-//  Copyright © 2019 戴运鹏. All rights reserved.
-//
+footer{
+  right: 0;
+  bottom: 0;
+  position: relative;
+  padding: 10px 1rem 10px 0;
+  margin-top: 50px;
+  font-size: 0.7em;
+  text-align: right;
+}
 
-#import <Foundation/Foundation.h>
+footer p{
+  margin-bottom:0;
+}
+
